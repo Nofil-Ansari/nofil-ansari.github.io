@@ -10,7 +10,6 @@
   "summary": "I Analyze and Visualize Data using Python liberaries to extract insights and make data-driven decisions. I am passionate about transforming raw data into meaningful information that can drive business success.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
-    
     {
       "label": "muhammad-nofil-ansari-2a4b8a200",
       "url": "https://www.linkedin.com/in/muhammad-nofil-ansari-2a4b8a200/",
@@ -21,14 +20,12 @@
       "url": "https://github.com/Nofil-Ansari",
       "svg_path": "img/github.svg"
     }
-  
   ],
   "projects": [
     {
       "title": "Sea Level Predictor",
       "summary": "Sea Level Predictor is a Python project that uses linear regression to predict sea level rise based on historical data. It visualizes the data and predictions using Matplotlib.",
       "url": "https://github.com/Nofil-Ansari/Sea_Level_Predictor.git",
-      
       "images": [
         {
           "img_path": "https://github.com/Nofil-Ansari/Sea_Level_Predictor/blob/main/sea_level_plot.png?raw=true",
@@ -40,7 +37,6 @@
       "title": "Time Series Visualizer",
       "summary": "Time Series Visualizer is a Python project that visualizes time series data using Matplotlib. It provides insights into trends and patterns in the data.",
       "url": "https://github.com/Nofil-Ansari/Time_Series_Visualizer.git",
-      
       "images": [
         {
           "img_path": "https://github.com/Nofil-Ansari/Time_Series_Visualizer/blob/main/bar_plot.png?raw=true",
@@ -63,7 +59,7 @@
       "images": [
         {
           "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/catplot.png?raw=true",
-          "caption": "Categorical Plot" 
+          "caption": "Categorical Plot"
         },
         {
           "img_path": "https://github.com/Nofil-Ansari/Medical_Data_Visualizer/blob/main/heatmap.png?raw=true",
@@ -75,28 +71,26 @@
       "title": "Mean-Variance-Standard Deviation Analysis",
       "summary": "Mean-Variance-Standard Deviation Analysis is a Python project that calculates and visualizes the mean, variance, and standard deviation of a dataset. It provides insights into the distribution and variability of the data.",
       "url": "https://github.com/Nofil-Ansari/Mean_Variance_Standard_Deviation.git"
-
     },
     {
       "title": "Demographic Data Analyzer",
       "summary": "Demographic Data Analyzer is a Python project that analyzes demographic data using Pandas. It provides insights into various demographic factors and their relationships.",
       "url": "https://github.com/Nofil-Ansari/Demographic_Data_Analyzer.git"
-    }],
+    }
+  ],
   "volunteer_experience": [
     {
       "organization": "FreeCodeCamp",
       "url": "https://www.freecodecamp.org/certification/fccc4f37844-6ed7-4f7d-8ac4-424bae6fb974/data-analysis-with-python-v7",
       "summary": "I have completed the Data Analysis with Python certification from FreeCodeCamp, which involved analyzing and visualizing data using Python libraries such as Pandas, Matplotlib, and Seaborn."
-    
     },
     {
       "organization": "HackerRank",
       "url": "https://www.hackerrank.com/certificates/2b0c3f8d1e4a",
       "summary": "I have completed the Python (Basic) certification from HackerRank, which involved solving various Python programming challenges and demonstrating proficiency in Python fundamentals."
-      
     }
   ],
-    "education": [
+  "education": [
     {
       "institution": "FAST-NUCES",
       "location": "Shah Latif Town, Karachi",
@@ -109,31 +103,32 @@
       "institution": "Highbrow College",
       "location": "F block North Nazimabad Karachi",
       "url": "https://highbrow.edu.pk/",
-      "degrees": ["A-levels"]
+      "degrees": [
+        "A-levels"
+      ]
     },
     {
       "institution": "Habib Public School",
       "location": "Near PIDC, Saddar, Karachi",
       "url": "https://habibschools.edu.pk/",
-      "degrees": ["O-levels"]
+      "degrees": [
+        "O-levels"
+      ]
     }
   ],
   "skills": [
     {
       "name": "Python Programming  "
-     
     },
     {
       "name": "Linux system administration"
-      
     },
     {
       "name": "Git Version Control System"
-      
     },
     {
-      "name": "DEVOPS (Dockers, SSH tunneling, virtual enviroments, dependency management)"}
-
+      "name": "DEVOPS (Dockers, SSH tunneling, virtual enviroments, dependency management)"
+    }
   ],
   "interests": [
     {
@@ -173,19 +168,6 @@
     {
       "language": "English",
       "fluency": "Professional Working Proficiency"
-    }
-  ],
-  
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
     }
   ]
 }
